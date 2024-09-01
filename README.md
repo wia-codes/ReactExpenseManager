@@ -13,3 +13,5 @@ ExpenseTrackerApp is a React-based application that allows users to manage and t
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ExpenseTrackerApp.git
+   
+![projectpic](https://github.com/user-attachments/assets/a4bbb42b-aaf1-4ef9-b774-2c6977d5d0dc)
